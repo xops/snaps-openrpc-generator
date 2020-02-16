@@ -1,3 +1,14 @@
+## [1.16.3](https://github.com/xops/snaps-openrpc-generator/compare/1.16.2...1.16.3) (2020-02-16)
+
+
+### Bug Fixes
+
+* almost rthere ([b58b591](https://github.com/xops/snaps-openrpc-generator/commit/b58b591f09156665208a0b8e03755d0d1be31db3))
+* get thins going ([b1d2348](https://github.com/xops/snaps-openrpc-generator/commit/b1d234804d90aab07a5c161a50fd21b2cdc3f7c1))
+* readmen and smal fix ([d1b99c7](https://github.com/xops/snaps-openrpc-generator/commit/d1b99c71c82700c927714bb028e7a4168789cb75))
+* remove a lot ([9771f32](https://github.com/xops/snaps-openrpc-generator/commit/9771f32241d079b07a188dcf95fba2fcde049e14))
+* shanes dist fix and example ([8b44e7d](https://github.com/xops/snaps-openrpc-generator/commit/8b44e7d61547cd8ef2fa32781f2264e6cd62ff51))
+
 ## [1.16.2](https://github.com/xops/snaps-openrpc-generator/compare/1.16.1...1.16.2) (2020-02-16)
 
 
