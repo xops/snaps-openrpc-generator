@@ -37,7 +37,7 @@ $ npm install -g @xops.net/snaps-openrpc-generator
 
 ### Using it in your project
 
-Make a new folder for your Plugin project
+Make a new folder for your Snap project
 ```shell
 $ mkdir MySnap && cd MySnap
 ```
