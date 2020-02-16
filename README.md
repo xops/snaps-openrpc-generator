@@ -48,6 +48,28 @@ Write an OpenRPC Document that describes your plugins interface, and includes an
 $ touch openrpc.json # write your OpenRPC Document to here (this is just the default title, you can name it what ever you want)
 ```
 
+```json
+{
+  "openrpc": "1.2.4",
+  "info": {
+    "title": "My First Snap Plugin",
+    "version": "1.0.0"
+  },
+  "methods": [
+    {
+      "name": "hello",
+      "params": [],
+      "result": {
+        "name": "helloWorldResult",
+        "schema": {
+          "type": "string"
+        }
+      }
+    }
+  ]
+}
+```
+
 Create a generator config file
 
 ```shell
