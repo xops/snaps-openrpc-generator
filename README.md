@@ -110,11 +110,11 @@ npm install .
 npm start
 ```
 
-you can now open `http://localhost:8000` and view your generated, interactive documentation site.
+you can now open http://localhost:8000 and view your generated, interactive documentation site.
 
 <img width="1676" alt="snaps2" src="https://user-images.githubusercontent.com/364566/74609561-7cfe7480-50a8-11ea-950a-139cf26ad138.png">
 
-and play around with the interactive api documentation at `http://localhost:8000`
+and play around with the interactive api documentation at http://localhost:8000/api-documentation
 <img width="1394" alt="demo_thing" src="https://user-images.githubusercontent.com/364566/74609566-87207300-50a8-11ea-8f41-eaf27625da16.png">
 
 
