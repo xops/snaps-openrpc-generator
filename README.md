@@ -19,6 +19,9 @@ Generate High end snaps in a snap.
 
 A Generator tool for creating [Metamask Snaps](https://github.com/MetaMask/snaps-cli) using [open-rpc](https://github.com/open-rpc/spec) APIs.
 
+[Getting Started Video (Demo)](https://www.youtube.com/watch?v=46nJ4AWHmvw)
+
+
 ## Features:
 
 - Can generate:
