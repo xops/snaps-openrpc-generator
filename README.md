@@ -24,7 +24,7 @@ A Generator tool for creating [Metamask Snaps](https://github.com/MetaMask/snaps
 - Can generate:
   - Clients for accessing your snap
   - Documentation
-  - Typed Snap Scaffold
+  - Snap Scaffold with strongly typed interfaces
 
 
 ## Install
