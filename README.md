@@ -87,7 +87,7 @@ $ snaps-openrpc-generator init
 Generate artifacts based on your config
 
 ```shell
-$ snaps-openrpc-generator generate -c openrpc-generator-config.json
+$ snaps-openrpc-generator generate -c open-rpc-generator-config.json
 ```
 
 To build the snaps plugin:
